@@ -9,7 +9,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>@jckli</title>
+        <title>@hayasaka.moe</title>
+        <link rel="icon" type="image/png" href="https://avatars.githubusercontent.com/u/39673993" />
       </Head>
       <div>
         <Component {...pageProps} />
