@@ -13,7 +13,7 @@ const Home: NextPage = () => {
                         (project hub for @jckli)
                     </a>
                 </div>
-                <div className="flex flex-col gap-8 text-md text-text-darker">
+                <div className="flex flex-col text-md text-text-darker">
                     <Link
                         title="statsify" 
                         url="statsify.hayasaka.moe"
