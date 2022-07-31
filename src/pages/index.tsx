@@ -4,7 +4,7 @@ import { Link } from "../components/Link";
 const Home: NextPage = () => {
     return (
         <>
-            <div className="px-16 w-fit mt-28">
+            <div className="px-16 w-fit mt-14 md:mt-28">
                 <div className="mb-10 text-xl">
                     <h1 className="text-text-color inline-block mr-4">
                         hayasaka.moe
