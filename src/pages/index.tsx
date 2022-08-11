@@ -29,6 +29,11 @@ const Home: NextPage = () => {
                         url="cdn.hayasaka.moe"
                         description="a private self hosted instance of chibisafe"
                     />
+                    <Link
+                        title="picsiv"
+                        url="picsiv.hayasaka.moe"
+                        description="a website to showcase the picsiv discord bot"
+                    />
                 </div>
             </div>
         </>
