@@ -30,6 +30,11 @@ const Home: NextPage = () => {
                         description="a private self hosted instance of chibisafe"
                     />
                     <Link
+                        title="tsuuchi/mangaupdates bot"
+                        url="tsuuchi.hayasaka.moe"
+                        description="a website to showcase the mangaupdates discord bot"
+                    />
+                    <Link
                         title="picsiv"
                         url="picsiv.hayasaka.moe"
                         description="a website to showcase the picsiv discord bot"
