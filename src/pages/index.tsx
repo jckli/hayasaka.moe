@@ -16,6 +16,11 @@ const Home: NextPage = () => {
 				</div>
 				<div className="flex flex-col text-md text-text-darker">
 					<Link
+						title="gitcloser"
+						url="gitcloser.hayasaka.moe"
+						description="find how close you are to another github user in less than 20 seconds"
+					/>
+					<Link
 						title="retrievify"
 						url="retrievify.hayasaka.moe"
 						description="see how youve spent your time listening to music on spotify"
