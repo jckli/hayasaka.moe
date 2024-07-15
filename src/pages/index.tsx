@@ -31,9 +31,14 @@ const Home: NextPage = () => {
 						description="a simple, fast, and open source art api"
 					/>
 					<Link
-						title="cdn"
-						url="cdn.hayasaka.moe"
-						description="a private self hosted instance of chibisafe"
+						title="pximg"
+						url="pximg.jackli.dev"
+						description="a pixiv image proxy, random image fetcher, and api"
+					/>
+					<Link
+						title="reddit"
+						url="reddit.jackli.dev"
+						description="fetch random images from various different subreddits with ease"
 					/>
 					<Link
 						title="tsuuchi/mangaupdates bot"
